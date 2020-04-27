@@ -1,0 +1,29 @@
+
+
+img {
+  height: 300px;
+}
+
+
+
+header {
+  background-color: #282c34;
+
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.contactInfo{ 
+
+  text-align: center;
+}
+
+
+main{
+margin-left: 200px;
+  width: 75%;
+}
